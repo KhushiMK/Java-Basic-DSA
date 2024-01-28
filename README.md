@@ -1,3 +1,2 @@
 # Java-Basic--DSA
-This will help to learn Java basic and data structure and algorithm program. 
-In this first basic topic will be uploaded the data structure and a few practice questions will be uploaded to a few advanced topics of data structure and algorithm
+This resource will help learn Java basics, data structures, and algorithm programs. The first topic will cover the basics of data structures, and a few practice questions will be included. Additionally, more advanced topics on data structures and algorithms will also be covered. ta structures and algorithms will also be covered.
