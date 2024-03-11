@@ -1,0 +1,5 @@
+->Function : block of code/reusable
+-> Parameter : input
+-> The parameter which are intialized in the function are called parameter / formal parameter
+-> The value passed  when function is called is  arguments / actual parameter.
+-> A stack is formed in function calling also know as call stack 
