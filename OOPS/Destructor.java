@@ -1,0 +1,1 @@
+/* In java destructor are not need because java has system called Garbage collector to destroy or delete the variable which are not in use */
